@@ -5,7 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://tarcisiovalentim.github.io/meuportifolio/">
-        <img src="https://fontmeme.com/permalink/200729/1583a07a5dfde28037bb1706733e58ce.png" alt="Logo webflix" />
+        <img src="https://fontmeme.com/permalink/200729/29d0ef452cb80cb6f6e6d77272f35503.png" />
       </a>
       <p>
         Orgulhosamente criado durante a
