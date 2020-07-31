@@ -4,7 +4,7 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://tarcisiovalentim.github.io/meuportifolio/">
+      <a href="https://tarcisiovalentim.github.io/portfolio/">
         <img src="https://fontmeme.com/permalink/200729/29d0ef452cb80cb6f6e6d77272f35503.png" />
       </a>
       <p>
