@@ -1,11 +1,12 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import logo from '../../assets/img/Logo3.png';
 
 function Footer() {
   return (
     <FooterBase>
       <a href="https://tarcisiovalentim.github.io/js-portfolio/">
-        <img src="assets/img/Logo3.png" />
+          <img src={logo} alt="LogoDev"/>
       </a>
       <p>
         Orgulhosamente criado durante a
