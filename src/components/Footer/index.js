@@ -5,7 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://tarcisiovalentim.github.io/js-portfolio/">
-        <img src="https://fontmeme.com/permalink/200729/29d0ef452cb80cb6f6e6d77272f35503.png" />
+        <img src="https://github.com/TarcisioValentim/reactjs-webflix/blob/master/src/assets/img/Logo3.png" />
       </a>
       <p>
         Orgulhosamente criado durante a
